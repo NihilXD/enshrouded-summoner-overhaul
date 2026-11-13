@@ -1,0 +1,12 @@
+{
+  "id": "summoner_overhaul",
+  "name": "Enshrouded Summoner Overhaul",
+  "version": "0.1.0",
+  "description": "Adds ranged & elemental caster summons sharing the native summon cap, an active Death Coil heal-on-hit skull spell, and configurable summon durations.",
+  "capabilities": [
+    "patch",
+    "export",
+    "runtime"
+  ]
+}
+

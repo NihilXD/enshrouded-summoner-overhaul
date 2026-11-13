@@ -1,0 +1,14 @@
+# OS & Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Modding & Exports
+exports/
+dumps/
+longer_lasting_summons/
+*.log
+*.zip
+*.bak
+
